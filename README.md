@@ -4,7 +4,7 @@
 Nama  : Alma Maida Wirastuti  
 NIM   : H1H024021
 Shift Awal : B  
-Shift Sekarang: A  
+Shift Akhir: A  
 
 ---
 
