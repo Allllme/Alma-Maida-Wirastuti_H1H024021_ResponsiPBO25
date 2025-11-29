@@ -1,10 +1,10 @@
 # Responsi Praktikum PBO - PokéCare
 
 ## Data Diri
-Nama  : Alma Maida Wirastuti  
-NIM   : H1H024021
-Shift Awal : B  
-Shift Akhir: A  
+Nama Lengkap : Alma Maida Wirastuti  
+NIM          : H1H024021  
+Shift Awal   : B  
+Shift Akhir  : A
 
 ---
 
@@ -16,11 +16,13 @@ Aplikasi memiliki 3 halaman:
 2. Latihan → Trainer dapat melakukan latihan berdasarkan jenis & intensitas  
 3. Riwayat → Mencatat semua sesi latihan  
 
-Aplikasi menerapkan konsep OOP:
-- Inheritance  
-- Polymorphism  
-- Encapsulation  
-- Abstraction  
+## Konsep OOP yang Dipakai
+Aplikasi ini menggunakan 4 Pilar OOP:
+
+1. **Encapsulation** → Atribut Pokémon (name, type, level, hp) disembunyikan dengan `protected`.  
+2. **Inheritance** → `Dugtrio.php` mewarisi class `Pokemon.php`.  
+3. **Polymorphism** → Method `train()` dioverride di Dugtrio agar efek latihan berbeda.  
+4. **Abstraction** → Class Pokémon menyediakan struktur dasar, detailnya dikembangkan pada Dugtrio.
 
 ---
 
