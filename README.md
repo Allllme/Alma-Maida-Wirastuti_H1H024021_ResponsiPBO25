@@ -27,3 +27,5 @@ Aplikasi menerapkan konsep OOP:
 ## Cara Menjalankan Aplikasi
 1. Buka folder project di VSCode  
 2. Jalankan server PHP:
+
+![Demo](https://raw.githubusercontent.com/Allllme/Alma-Maida-Wirastuti_H1H024021_ResponsiPBO25/main/Animation.gif)
